@@ -328,6 +328,10 @@ section {
     margin: 0;
 }
 
+#name {
+	font-weight: bold;
+}
+
 /* --------- 2.2 Logo ---------- */
 
 #logo {
