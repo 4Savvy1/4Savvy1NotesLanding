@@ -1,0 +1,81 @@
+{
+	"@context": "https://schema.org",
+	"@type": "SoftwareApplication",
+	"name": "Savvy: Insights Explorer - order information, come up with ideas",
+	"applicationCategory": "Knowledge base, Note-taking, Recommender system",
+	"operatingSystem": "Web, Android, iOS",
+	"abstract": "An easy way to turn information into bright insights",
+	"text": "An AI powered knowledge base with auto categorization and recommender system that helps creative researchers to keep all information under control and get insights based on their interests.",
+	"description": "An AI powered knowledge base with auto categorization and recommender system that helps creative researchers to keep all information under control and get insights based on their interests.",
+	"keywords": "ai, auto, categorization, control, creative, idea, information, insight, interest, keep, knowledge base, note, note-taking, order, organize, recommender system, researchers, savvy, tags",
+	"url": "https://www.4savvy.one",
+	"featureList": "https://www.4savvy.one/#features",
+	"image": "images/savvy-logo.png",
+	"screenshot": "images/screenshot.webp",
+	"audience": [
+		{
+			"@type": "Audience",
+			"audienceType": "researchers"
+		},
+		{
+			"@type": "Audience",
+			"audienceType": "note-takers"
+		},
+	],
+	"aggregateRating": {
+		"@type": "AggregateRating",
+		"ratingValue": "5",
+		"reviewCount": "50"
+	},
+	"review": [
+		{
+			"@type": "Review",
+			"author": "Lucas",
+			"datePublished": "2021-02-10",
+			"reviewBody": "Good luck, sounds like a really cool plan!",
+			"reviewRating": {
+				"@type": "Rating",
+				"bestRating": "5",
+				"ratingValue": "5",
+				"worstRating": "1"
+			}
+		},
+		{
+			"@type": "Review",
+			"author": "Martina",
+			"datePublished": "2021-02-20",
+			"reviewBody": "Great job, very interesting idea!",
+			"reviewRating": {
+				"@type": "Rating",
+				"bestRating": "5",
+				"ratingValue": "5",
+				"worstRating": "1"
+			}
+		},
+		{
+			"@type": "Review",
+			"author": "Oliver",
+			"datePublished": "2021-02-06",
+			"reviewBody": "Very good! I would use the app.",
+			"reviewRating": {
+				"@type": "Rating",
+				"bestRating": "5",
+				"ratingValue": "5",
+				"worstRating": "1"
+			}
+		},
+		{
+			"@type": "Review",
+			"author": "Anita",
+			"datePublished": "2021-02-20",
+			"reviewBody": "I think it could be very successful! I would buy such an app. Well done!",
+			"reviewRating": {
+				"@type": "Rating",
+				"bestRating": "5",
+				"ratingValue": "5",
+				"worstRating": "1"
+			}
+		}
+	]
+	"copyrightYear": 2021
+}
